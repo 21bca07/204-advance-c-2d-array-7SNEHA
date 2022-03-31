@@ -16,7 +16,7 @@ void main()
 		{
 			if(strcmp(a[i],a[j])>0)
 			 {
-				 strcpy(b,a[i]);
+			//	 strcpy(b,a[i]);
 				 strcpy(a[i],a[j]);
 				 strcpy(a[j],b);
 			 }

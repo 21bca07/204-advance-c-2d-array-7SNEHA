@@ -27,7 +27,7 @@ void main()
 	{
 		for(j=1;j<=3;j++)
 		{
-			if(i!=j&&a[i][j]!=0)
+			//if(i!=j&&a[i][j]!=0)
 			c=1;
 		}
 		printf("\n");
